@@ -8,3 +8,6 @@ https://docs.djangoproject.com/en/3.2/ref/models/querysets/
 
 *****color codes*****
 http://www.colorpicker.com/
+
+*Font Style*
+https://www.google.com/fonts
