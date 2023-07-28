@@ -11,3 +11,6 @@ http://www.colorpicker.com/
 
 *Font Style*
 https://www.google.com/fonts
+
+*****"Basic HTML & HTML5" and "Basic CSS"*****
+https://www.freecodecamp.org/learn/
