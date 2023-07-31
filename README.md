@@ -17,3 +17,6 @@ https://www.freecodecamp.org/learn/
 
 ***Template extending***
 https://www.w3schools.com/django/django_tags_extends.php
+
+*icons*
+https://raw.githubusercontent.com/twbs/icons/main/icons/file-earmark-plus.svg
