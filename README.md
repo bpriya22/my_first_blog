@@ -23,3 +23,6 @@ https://raw.githubusercontent.com/twbs/icons/main/icons/file-earmark-plus.svg
 
 *Django Forms Documentation*
 https://docs.djangoproject.com/en/3.2/topics/forms/
+
+***Data-Flair-Tutorial***
+https://data-flair.training/blogs/django-mtv-architecture/
