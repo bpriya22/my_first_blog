@@ -20,3 +20,6 @@ https://www.w3schools.com/django/django_tags_extends.php
 
 *icons*
 https://raw.githubusercontent.com/twbs/icons/main/icons/file-earmark-plus.svg
+
+*Django Forms Documentation*
+https://docs.djangoproject.com/en/3.2/topics/forms/
