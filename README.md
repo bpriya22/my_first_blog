@@ -26,3 +26,6 @@ https://docs.djangoproject.com/en/3.2/topics/forms/
 
 ***Data-Flair-Tutorial***
 https://data-flair.training/blogs/django-mtv-architecture/
+
+*Doc on Authentication*:
+https://docs.djangoproject.com/en/2.0/topics/auth/default/
